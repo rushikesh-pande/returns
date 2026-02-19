@@ -1,0 +1,18 @@
+package com.order.returns.model;
+
+public enum ReturnStatus {
+    REQUESTED,
+    APPROVED,
+    REJECTED,
+    SHIPPING_LABEL_GENERATED,
+    IN_TRANSIT,
+    RECEIVED,
+    INSPECTING,
+    INSPECTION_PASSED,
+    INSPECTION_FAILED,
+    REFUND_INITIATED,
+    REFUNDED,
+    COMPLETED,
+    CANCELLED
+}
+

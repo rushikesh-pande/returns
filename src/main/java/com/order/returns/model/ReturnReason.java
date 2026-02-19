@@ -1,0 +1,15 @@
+package com.order.returns.model;
+
+public enum ReturnReason {
+    DEFECTIVE_PRODUCT,
+    WRONG_ITEM_RECEIVED,
+    SIZE_ISSUE,
+    COLOR_MISMATCH,
+    NOT_AS_DESCRIBED,
+    DAMAGED_IN_TRANSIT,
+    CHANGED_MIND,
+    DUPLICATE_ORDER,
+    BETTER_PRICE_AVAILABLE,
+    OTHER
+}
+
