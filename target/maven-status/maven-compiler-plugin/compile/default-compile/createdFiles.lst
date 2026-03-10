@@ -1,0 +1,12 @@
+com\order\returns\model\Return.class
+com\order\returns\model\ReturnReason.class
+com\order\returns\kafka\ReturnEventProducer.class
+com\order\returns\service\RefundService.class
+com\order\returns\service\ShippingLabelService.class
+com\order\returns\dto\ReturnRequest.class
+com\order\returns\service\ReturnService.class
+com\order\returns\model\ReturnStatus.class
+com\order\returns\ReturnServiceApplication.class
+com\order\returns\dto\ReturnResponse.class
+com\order\returns\controller\ReturnController.class
+com\order\returns\repository\ReturnRepository.class
